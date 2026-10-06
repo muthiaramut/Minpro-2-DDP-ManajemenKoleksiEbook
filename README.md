@@ -12,12 +12,18 @@ Pada page pertama akan dimulai, dilanjutkan dengan Inisialisasi seluruh Data, di
 <br>
 Dilanjutkan dengan menampilkan pilihan kategori dan menginput pilihan kategori(angka) lanjut ke decision pilihan jika memilih 1,2 & 3 maka akan lanjut ke corrector menu, jika meimilih pilihan 4 maka akan ditampilkan "program selesai" dan berakhir. Dan jika memilih diluar pilihan maka ditampilkan "pilihan kategori tidak ada" dan akan kembali untuk memilih kategori lagi.<br>
 2. Page (2)<br>
-<img width="690" height="1076" alt="Page(2) drawio" src="https://github.com/user-attachments/assets/31980c5b-d55e-4d50-b508-f15605753df0" /><br>
-
-3. Page (3)<br>
+<img width="690" height="1049" alt="Page(2) drawio" src="https://github.com/user-attachments/assets/4d8cae78-674a-4acd-ad4d-e473b9061fb2" /><br>
+Dilanjutkan ke decision jika `benar` admin maka akan mempunyai 5 pilihan yaitu CRUD, jika `tidak` maka ototmatis masuk ke menu user yang hanya mempunyai 2 pilihan menu.<br>
+<br>
+#Admin<br>
+Pada admin harus menginput pilihan diantara CRUD tersebut, masuk pada bagian deicision untuk pilihan 1, 2, 3, dan 4 akan di teruskan kepada masing-masing corrector di pilihan tersebut dan pada pilihan ke 5  akan kembali ke daftar kategori. Dan jika memasukkan angka yang tidak ada dipilihan maka akan menampilkan "Pilihan menu tidak ada" dan akan kembali ke daftar kategori.<br>
+<br>
+#User<br>
+Pada user harus menginput pilihan diantar 2 pilihan yaitu lihat ebook atau kembali ke kategori, dan jika memasukkan angka yang tidak ada dipilihan maka akan menampilkan "Pilihan menu tidak ada" dan akan kembali ke daftar kategori.<br>
+4. Page (3)<br>
 <img width="570" height="692" alt="Page(3) drawio" src="https://github.com/user-attachments/assets/0f4f333f-8cca-4586-8041-8a17f8b9b9bc" /><br>
 
-4. Page (4)<br>
+5. Page (4)<br>
 <img width="650" height="1065" alt="Page (4) drawio" src="https://github.com/user-attachments/assets/917e878a-d097-46ba-9863-3ae4e70008ed" />
 
    
