@@ -66,7 +66,8 @@ Ouput:<br>
 4. Daftar ebook `Novel`<br>
 <img width="236" height="76" alt="image" src="https://github.com/user-attachments/assets/42921f5e-c05e-4f93-89e9-3e28a01e3452" />
 <br>
-4. Input<br>
+<br>
+2. Input<br>
 <img width="320" height="194" alt="image" src="https://github.com/user-attachments/assets/c645267c-6e85-4c53-b7b8-959cfcd08474" /><br>
 Dengan Varibel dictionary dengan nama `akun` penyimpan data nested dictionary untuk mengelola pengguna yang berisikan nama, password dan akses untuk ke menu bagian admin/user.<br>
 <br>
@@ -85,6 +86,7 @@ Output:<br>
 4. Jika Username & Password salah<br>
 <img width="349" height="142" alt="image" src="https://github.com/user-attachments/assets/896a47f3-1380-4c7c-b62b-44cf8c742ef8" /><br>
 <br>
+<br>
 3. Input<br>
 <img width="592" height="71" alt="image" src="https://github.com/user-attachments/assets/c5b53d07-f164-4e6c-b601-120a031e04db" /><br>
 Pada pilihan 1 bisa di akses admin & user dengan mendefinisikan lihat_ebook dan dengan menampilkan daftar ebook awal dengan menggunakan indeks 0 dan 1 untuk menampilkan ebook dan penulis dan setelahnya akan mengulang kembali memilih kategori kembali.<br>
@@ -92,12 +94,14 @@ Pada pilihan 1 bisa di akses admin & user dengan mendefinisikan lihat_ebook dan 
 Output::<br>
 <img width="221" height="335" alt="image" src="https://github.com/user-attachments/assets/201fa124-15c5-4017-bc58-913075f2ac14" /><br>
 <br>
+<br>
 4. Input<br>
 <img width="625" height="327" alt="image" src="https://github.com/user-attachments/assets/0e93a58e-4a41-4c66-9729-d28557510d08" /><br>
 Pada pilihan 2 akan bisa di akses oleh admin saja dengan mendefinsikan tambah_ebook dengan menggunakan while true untuk mengisi data pengguna mulai dari judul dan penulis jika kosong maka akan menampilkan "Judul/Penulis tidak boleh kosong" dan akan mengulang untuk mengisi inputan judul/penulis. Dan setelah menginput judul dan penulis yang ingin ditambahkan dengan menggunakan `append` maka akan otomatis masuk kedalam list ebooks lalu menampilkan "Ebook ditambahkan" dan akan menampilkan daftar ebook terbaru.<br>
 <br>
 Output:<br>
 <img width="289" height="355" alt="image" src="https://github.com/user-attachments/assets/8afb9538-58ed-4a05-b4ae-d6930df96598" /><br>
+<br>
 <br>
 5. Input<br>
 <img width="645" height="625" alt="image" src="https://github.com/user-attachments/assets/0c477e90-8ccf-485c-ac49-8d3d6571e095" /><br>
@@ -108,12 +112,14 @@ Dilanjutkan dengan mengisi juduk dan penulis baru yang ingin di masukkan ke dala
 Output:<br>
 <img width="354" height="527" alt="image" src="https://github.com/user-attachments/assets/fac09c7f-d388-41eb-8c52-688bf5236715" /><br>
 <br>
+<br>
 6. Input<br>
 <img width="637" height="525" alt="image" src="https://github.com/user-attachments/assets/f4f69da9-8007-450f-adff-5c01aab7ad29" /><br>
 Pada pilihan ke 4 yang hanya bisa di akses oleh admin dengan menggunakan while true untuk mengsi data pengguna dimulai dengan di tampilkan daftar ebook terbaru lalu menginput judul/penulis yang ingin di hapus, jika judul dan penulis jika kosong maka akan menampilkan "Judul/Penulis tidak boleh kosong" dan akan mengulang untuk mengisi inputan judul/penulis yang ingin di dihapus. Lalu kembali menggunakan peran `remove` untuk menghapus data yang diinput untuk di hapus dari data list ebooks. Lalu setelahnya akan menampilkan ebook terbaru dan menampilkan kalimat "Ebook berhasil dihapus"<br>
 <br>
 Output:<br>
 <img width="437" height="489" alt="image" src="https://github.com/user-attachments/assets/c0666e48-4d92-4e63-b00c-6cf3d3060939" /><br>
+<br>
 <br>
 7. Input<br>
 <img width="643" height="504" alt="image" src="https://github.com/user-attachments/assets/805d55f9-1123-4b84-98d3-fff81a24daaa" /><br>
@@ -127,6 +133,7 @@ Output:<br>
 3. Jika tidak memilih kategori ebook (ksosong)<br>
 <img width="237" height="234" alt="image" src="https://github.com/user-attachments/assets/05dea9fe-2f1c-46aa-9535-7efbab54347e" /><br>
 <br>
+<br>
 8. Input<br>
 <img width="466" height="515" alt="image" src="https://github.com/user-attachments/assets/c4355348-8d64-496f-8d2b-eaff4aab8781" /><br>
 Untuk menampilkan dan memanggil akses yang hanya bisa di lakukan admin ebook yaitu dapat melakukan CRUD, jika memasukkan angka diluar pilihan maka akan kembali memilih kategori.<br>
@@ -138,6 +145,7 @@ Output:
 <img width="277" height="225" alt="image" src="https://github.com/user-attachments/assets/aaa8a506-2e19-494c-bff4-8eb7c64ed0f9" /><br>
 3. Jika tidak memilih kategori menu pilihan (kosong) <br>
 <img width="265" height="247" alt="image" src="https://github.com/user-attachments/assets/19a93153-51f2-446a-8d62-661de4aaffb8" /><br>
+<br>
 <br>
 9. Input<br>
 <img width="607" height="296" alt="image" src="https://github.com/user-attachments/assets/66b2f30a-12fa-4caf-8d1b-8895861c1623" /><br>
