@@ -55,9 +55,16 @@ Dengan import pwinput untuk mengimpor library pwinput untuk password, def kosong
 Terdapat ebooks seabagai list yang berisikan tuple dalamnya untuk menyimpan data kategori ebook, dan pada masing masing kategori berisikan data 3 judul & penulis ebook yang sesuai tentang kategori.<br>
 <br>
 Ouput:<br>
-
+1. Daftar Kategori Ebook<br>
+<img width="229" height="119" alt="image" src="https://github.com/user-attachments/assets/d54eea84-1ba9-4ce0-b172-7df907ad56c6" /><br>
+2. Daftar ebook `Pembelajaran`<br>
+<img width="223" height="69" alt="image" src="https://github.com/user-attachments/assets/bf949d7d-e3cf-441d-9951-d5db65cb1e42" /><br>
+3. Daftar ebook `Penelitian`<br>
+<img width="287" height="77" alt="image" src="https://github.com/user-attachments/assets/3b27b202-45ff-4769-bd8d-c109f218db7d" /><br>
+4. Daftar ebook `Novel`<br>
+<img width="236" height="76" alt="image" src="https://github.com/user-attachments/assets/42921f5e-c05e-4f93-89e9-3e28a01e3452" />
 <br>
-2. Input<br>
+4. Input<br>
 <img width="320" height="194" alt="image" src="https://github.com/user-attachments/assets/c645267c-6e85-4c53-b7b8-959cfcd08474" /><br>
 Dengan Varibel dictionary dengan nama `akun` penyimpan data nested dictionary untuk mengelola pengguna yang berisikan nama, password dan akses untuk ke menu bagian admin/user.<br>
 <br>
