@@ -52,8 +52,18 @@ Ouput:<br>
 Dengan Varibel dictionary dengan nama `akun` penyimpan data nested dictionary untuk mengelola pengguna yang berisikan nama, password dan akses untuk ke menu bagian admin/user.<br>
 <br>
 <img width="461" height="493" alt="image" src="https://github.com/user-attachments/assets/8f240752-9b0f-4f4d-8fa9-9104682785e9" /><br>
-Dengan while true untuk melakukan perulangahn untuk mengsi username & password login dan jika username/password maka akan menampilkan "username/password tidak boleh kosong" dan dengan funsi continue untuk mengulang perulangan.<br>
-Dan jika username/password salah maka akan ditampilkan "Username/password salah"
+Dengan while true untuk melakukan perulangahn untuk mengsi username & password login dan jika username/password maka akan menampilkan "username/password tidak boleh kosong" dan dengan fungsi continue untuk mengulang perulangan. Pada password akan terlihat karakter *** (bintang) dengan menggunakan fungsi pwinput untuk menyembunyikan karakter password pengguna.<br>
+Dan jika username/password salah maka akan ditampilkan "Username/password salah" dan dengan fungsi continue untuk mengulang perulangan. Dan dengan `akses = login()` untuk memanggil fungsi login () dn menyiman nilai hasil pengembaliannya dalam variabel akses<br>
+Output:<br>
+3. Input<br>
+<img width="592" height="71" alt="image" src="https://github.com/user-attachments/assets/c5b53d07-f164-4e6c-b601-120a031e04db" /><br>
+Pada pilihan 1 akan bisa di akses sama admin & user dengan mendefinisikan lihat_ebook dan dengan menampilkan daftar ebook awal dengan menggunakan indeks 0 dan 1 untuk menampilkan ebook dan penulis.<br>
+Output::<br>
+<img width="625" height="327" alt="image" src="https://github.com/user-attachments/assets/0e93a58e-4a41-4c66-9729-d28557510d08" /><br>
+Pada pilihan 2 akan bisa di akses oleh admin saja dengan mendefinsikan tambah_ebook dengan menggunakan while true untuk mengisi data pengguna mulai dari judul dan penulis jika kosong maka akan menampilkan "Judul/Penulis tidak boleh kosong"
+
+
+
 
 
 
