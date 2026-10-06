@@ -24,10 +24,10 @@ Pada admin harus menginput pilihan diantara CRUD tersebut, masuk pada bagian dei
 <br>
 #User<br>
 Pada user harus menginput pilihan diantar 2 pilihan yaitu lihat ebook atau kembali ke kategori, dan jika memasukkan angka yang tidak ada dipilihan maka akan menampilkan "Pilihan menu tidak ada" dan akan kembali ke daftar kategori.<br>
-<br>
 3. Page (3)<br>
 <img width="570" height="692" alt="Page(3) drawio" src="https://github.com/user-attachments/assets/e34461e6-f588-4a24-bd29-c98b8bcef713" /><br>
 Penejelasan:<br>
+<br>
 #1<br>
 Pada pilihan satu akan menampilkan seluruh daftar ebook awal dan akan kembali ke daftar kategori.<br>
 <br>
@@ -37,6 +37,7 @@ Pada pilihan kedua akan masuk untuk menginput judul baru, lanjut ke decision jik
 4. Page (4)<br>
 <img width="650" height="1065" alt="Page (4) drawio" src="https://github.com/user-attachments/assets/c88fe29c-1b31-4358-88e4-a5d09dc2a4ff" /><br>
 Penjelasan:<br>
+<br>
 #3<br>
 Pada pilihan ketiga ditampilkan terlebih dahulu daftar ebook yang lama lalu diminta untuk menginput judul lama yang ingin diubah, jika kosong akan muncul tampilan "judul lama tidak boleh kosong" dan kembali untuk menginput judul lama. Jika telah mengisi judul lama akan lanjut untuk menginput penulis lama yang ingin di ubah dan sama jika kosong akan muncul tampilan "penulis lama tidak boleh kosong" dan kembali untuk menginput penulis lama.<br>
 <br>
@@ -74,7 +75,6 @@ Dengan while true untuk melakukan perulangahn untuk mengsi username & password l
 Dan jika username/password salah maka akan ditampilkan "Username/password salah" dan dengan fungsi continue untuk mengulang perulangan. Dan dengan `akses = login()` untuk memanggil fungsi login () dn menyiman nilai hasil pengembaliannya dalam variabel akses<br>
 <br>
 Output:<br>
-<br>
 1. Username benar sebagai admin<br>
 <img width="258" height="185" alt="image" src="https://github.com/user-attachments/assets/81ebd286-c7c4-4403-8dcc-70f89886028b" /><br>
 2. Password benar sebagai user<br>
@@ -127,9 +127,10 @@ Output:<br>
 8. Input<br>
 <img width="466" height="515" alt="image" src="https://github.com/user-attachments/assets/c4355348-8d64-496f-8d2b-eaff4aab8781" /><br>
 Untuk menampilkan dan memanggil akses yang hanya bisa di lakukan admin ebook yaitu dapat melakukan CRUD, jika memasukkan angka diluar pilihan maka akan kembali memilih kategori.<br>
+<br>
+Output:
 1. Jika memilih pilihan 5<br>
 <img width="331" height="228" alt="image" src="https://github.com/user-attachments/assets/7da2ab47-c365-4cd9-8a5a-8c15aebcc427" /><br>
-<br>
 2. Jika memilih diluar pilihan<br>
 <img width="277" height="225" alt="image" src="https://github.com/user-attachments/assets/aaa8a506-2e19-494c-bff4-8eb7c64ed0f9" /><br>
 3. Jika tidak memilih kategori menu pilihan (kosong) <br>
@@ -138,6 +139,8 @@ Untuk menampilkan dan memanggil akses yang hanya bisa di lakukan admin ebook yai
 9. Input<br>
 <img width="607" height="296" alt="image" src="https://github.com/user-attachments/assets/66b2f30a-12fa-4caf-8d1b-8895861c1623" /><br>
 Untuk menampilkan dan memanggil akses yang hanya bisa di lakukan user ebook yaitu hanya dapat melihat ebook atau kembali memilih kategori jika memasukkan angka diluar pilihan maka akan kembali memilih kategori.<br>
+<br>
+Output:
 1. Jika memilih pilihan 2<br>
 <img width="299" height="299" alt="image" src="https://github.com/user-attachments/assets/69c07f96-dc59-412b-a76f-c72a159a2163" /><br>
 2. Jika memilih diluar pilihan<br>
