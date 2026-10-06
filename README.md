@@ -59,8 +59,13 @@ Output:<br>
 <img width="592" height="71" alt="image" src="https://github.com/user-attachments/assets/c5b53d07-f164-4e6c-b601-120a031e04db" /><br>
 Pada pilihan 1 akan bisa di akses sama admin & user dengan mendefinisikan lihat_ebook dan dengan menampilkan daftar ebook awal dengan menggunakan indeks 0 dan 1 untuk menampilkan ebook dan penulis.<br>
 Output::<br>
-<img width="625" height="327" alt="image" src="https://github.com/user-attachments/assets/0e93a58e-4a41-4c66-9729-d28557510d08" /><br>
-Pada pilihan 2 akan bisa di akses oleh admin saja dengan mendefinsikan tambah_ebook dengan menggunakan while true untuk mengisi data pengguna mulai dari judul dan penulis jika kosong maka akan menampilkan "Judul/Penulis tidak boleh kosong"
+4. <img width="625" height="327" alt="image" src="https://github.com/user-attachments/assets/0e93a58e-4a41-4c66-9729-d28557510d08" /><br>
+Pada pilihan 2 akan bisa di akses oleh admin saja dengan mendefinsikan tambah_ebook dengan menggunakan while true untuk mengisi data pengguna mulai dari judul dan penulis jika kosong maka akan menampilkan "Judul/Penulis tidak boleh kosong" dan akan mengulang untuk mengisi inputan judul/penulis. Dan setelah menginput judul dan penulis yang ingin ditambahkan dengan menggunakan `append` maka akan otomatis masuk kedalam list ebooks lalu menampilkan "Ebook ditambahkan" dan akan menampilkan daftar ebook terbaru.<br>
+Output:<br>
+5. Input<br>
+<img width="645" height="625" alt="image" src="https://github.com/user-attachments/assets/0c477e90-8ccf-485c-ac49-8d3d6571e095" /><br>
+Pada pilihan 3 akan bisa di akses oleh admin saja dengan mendefinisikan ubah_ebook dengan menggunakan while true untuk mengsi data pengguna dengan memasukkan judul/penulis yang lama, jika judul dan penulis jika kosong maka akan menampilkan "Judul/Penulis tidak boleh kosong" dan akan mengulang untuk mengisi inputan judul/penulis.
+
 
 
 
