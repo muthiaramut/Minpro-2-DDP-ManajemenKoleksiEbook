@@ -71,7 +71,10 @@ Pada pilihan 3 akan bisa di akses oleh admin saja dimulai dengan ditampilkan daf
 Dilanjutkan dengan mengisi juduk dan penulis baru yang ingin di masukkan ke dalam data untuk mengubah data yang lama, lalu jika judul dan penulis jika kosong maka akan menampilkan "Judul/Penulis tidak boleh kosong" dan akan mengulang untuk mengisi inputan judul/penulis yang ingin di tambah. Digunakan peran `append` untuk menambahkan data di list ebooks sesuai data yang baru. Setelah berhasil maka akan menampilkan kalimat "Ebook berhasil diubah" dan menampilkan kembali daftar ebook terbaru.<br>
 Output:<br>
 <br>
-6. 
+6. Input<br>
+<img width="637" height="525" alt="image" src="https://github.com/user-attachments/assets/f4f69da9-8007-450f-adff-5c01aab7ad29" /><br>
+Pada pilihan ke 4 yang hanya bisa di akses oleh admin dengan menggunakan while true untuk mengsi data pengguna dimulai dengan di tampilkan daftar ebook terbaru lalu menginput judul/penulis yang ingin di hapus, jika judul dan penulis jika kosong maka akan menampilkan "Judul/Penulis tidak boleh kosong" dan akan mengulang untuk mengisi inputan judul/penulis yang ingin di dihapus. Lalu kembali menggunakan peran `remove` untuk menghapus data yang diinput untuk di hapus dari data list ebooks. Lalu setelahnya akan menampilkan ebook terbaru dan menampilkan kalimat "Ebook berhasil dihapus"
+
 
 
 
