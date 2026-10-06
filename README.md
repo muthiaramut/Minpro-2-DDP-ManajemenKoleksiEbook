@@ -42,8 +42,19 @@ Pada pilihan keempat ditampilkan terlebih dahulu daftar ebook yang lalu diminta 
 CODE:
 1. Input<br>
 <img width="229" height="79" alt="image" src="https://github.com/user-attachments/assets/e3faf8e2-aff8-4519-a25b-1b6e204bc593" /><br>
+Dengan import pwinput untuk mengimpor library pwinput untuk password, def kosong untuk mendefinisikan jika terdapat data kosong maka akn terbaca kosong dan return data == "" untuk mengembalikan boolean true jika bener" kosong dan jika false jika tidak kosong.<br>
+<br>
 <img width="509" height="284" alt="image" src="https://github.com/user-attachments/assets/46737a84-7f9e-4332-a453-04b578e32133" /><br>
-Dengan import pwinput untuk mengimpor library pwinput untuk password, def kosong untuk mendefinisikan jika terdapat data kosong maka akn terbaca kosong dan return data == "" untuk mengembalikan 
+Terdapat ebooks seabagai list yang berisikan tuple dalamnya untuk menyimpan data kategori ebook, dan pada masing masing kategori berisikan data 3 judul & penulis ebook yang sesuai tentang kategori.<br>
+Ouput:<br>
+2. Input<br>
+<img width="320" height="194" alt="image" src="https://github.com/user-attachments/assets/c645267c-6e85-4c53-b7b8-959cfcd08474" /><br>
+Dengan Varibel dictionary dengan nama `akun` penyimpan data nested dictionary untuk mengelola pengguna yang berisikan nama, password dan akses untuk ke menu bagian admin/user.<br>
+<br>
+<img width="461" height="493" alt="image" src="https://github.com/user-attachments/assets/8f240752-9b0f-4f4d-8fa9-9104682785e9" /><br>
+Dengan while true untuk melakukan perulangahn untuk mengsi username & password login dan jika username/password maka akan menampilkan "username/password tidak boleh kosong" dan dengan funsi continue untuk mengulang perulangan.<br>
+Dan jika username/password salah maka akan ditampilkan "Username/password salah"
+
 
 
 
