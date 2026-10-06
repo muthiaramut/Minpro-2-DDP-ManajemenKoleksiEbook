@@ -41,6 +41,7 @@ Penjelasan:<br>
 Pada pilihan ketiga ditampilkan terlebih dahulu daftar ebook yang lama lalu diminta untuk menginput judul lama yang ingin diubah, jika kosong akan muncul tampilan "judul lama tidak boleh kosong" dan kembali untuk menginput judul lama. Jika telah mengisi judul lama akan lanjut untuk menginput penulis lama yang ingin di ubah dan sama jika kosong akan muncul tampilan "penulis lama tidak boleh kosong" dan kembali untuk menginput penulis lama.<br>
 <br>
 Dilanjutkan untuk menginput judul baru dan penulis baru dan sama juga jika salah satu kosong maka akan muncul tampilan "judul/penulis baru tidak boleh kosong" dan kembali untuk menginput judul/penulis baru. Dan jika telah menginput judul & penulis baru maka akan menampilkan daftar ebook baru dan menampilkan kalimat "Ebook berhasil diubah"<br>
+<br>
 #4<br>
 Pada pilihan keempat ditampilkan terlebih dahulu daftar ebook yang lalu diminta untuk menginput judul ebook yang ingin dihapus, jika kosong akan muncul tampilan "judul yang ingin dihapus tidak boleh kosong" dan kembali untuk menginput judul yang ingin di hapus. Jika telah mengisi judul akan lanjut untuk menginput penulis yang ingin di hapus dan sama jika kosong akan muncul tampilan "penulis yang ingin dihapus tidak boleh kosong" dan kembali untuk menginput penulis yang ingin dihapus.<br>
 <br>
@@ -60,6 +61,7 @@ Dengan Varibel dictionary dengan nama `akun` penyimpan data nested dictionary un
 <br>
 <img width="461" height="493" alt="image" src="https://github.com/user-attachments/assets/8f240752-9b0f-4f4d-8fa9-9104682785e9" /><br>
 Dengan while true untuk melakukan perulangahn untuk mengsi username & password login dan jika username/password maka akan menampilkan "username/password tidak boleh kosong" dan dengan fungsi continue untuk mengulang perulangan. Pada password akan terlihat karakter *** (bintang) dengan menggunakan fungsi pwinput untuk menyembunyikan karakter password pengguna.<br>
+<br>
 Dan jika username/password salah maka akan ditampilkan "Username/password salah" dan dengan fungsi continue untuk mengulang perulangan. Dan dengan `akses = login()` untuk memanggil fungsi login () dn menyiman nilai hasil pengembaliannya dalam variabel akses<br>
 Output:<br>
 <br>
