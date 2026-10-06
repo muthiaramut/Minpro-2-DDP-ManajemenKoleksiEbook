@@ -77,8 +77,9 @@ Pada pilihan ke 4 yang hanya bisa di akses oleh admin dengan menggunakan while t
 Output:<br>
 <br>
 7. Input<br>
-<img width="643" height="519" alt="image" src="https://github.com/user-attachments/assets/74911103-f7b4-47bd-98ae-44276df2011f" /><br>
-Ini adalah perulangan untuk menampilkan Pilihan Kategori dengan menggunakan indeks jika memilih 1,2,3 maka indeks data `0,1,2` yang akan ditampilkan, jika memilih kategori 4 maka akan keluar dari program dan menampilkan "Program Selesai"
+<img width="643" height="504" alt="image" src="https://github.com/user-attachments/assets/805d55f9-1123-4b84-98d3-fff81a24daaa" /><br>
+Ini adalah perulangan untuk menampilkan Pilihan Kategori dengan menggunakan indeks jika memilih 1,2,3 maka indeks data `0,1,2` yang akan ditampilkan, jika memilih kategori 4 maka akan keluar dari program dan menampilkan "Program Selesai" dan jika pengguna memasukkan kategori yang lain maka akan menampilkan ouput "Pilihan Kategori tidak ada" dan kembali untuk memilih kategori lagi.
+
 
 
 
