@@ -72,8 +72,9 @@ Dengan Varibel dictionary dengan nama `akun` penyimpan data nested dictionary un
 Dengan while true untuk melakukan perulangahn untuk mengsi username & password login dan jika username/password maka akan menampilkan "username/password tidak boleh kosong" dan dengan fungsi continue untuk mengulang perulangan. Pada password akan terlihat karakter *** (bintang) dengan menggunakan fungsi pwinput untuk menyembunyikan karakter password pengguna.<br>
 <br>
 Dan jika username/password salah maka akan ditampilkan "Username/password salah" dan dengan fungsi continue untuk mengulang perulangan. Dan dengan `akses = login()` untuk memanggil fungsi login () dn menyiman nilai hasil pengembaliannya dalam variabel akses<br>
+<br>
 Output:<br>
-Ouput:<br>
+<br>
 1. Username benar sebagai admin<br>
 <img width="258" height="185" alt="image" src="https://github.com/user-attachments/assets/81ebd286-c7c4-4403-8dcc-70f89886028b" /><br>
 2. Password benar sebagai user<br>
@@ -131,19 +132,18 @@ Untuk menampilkan dan memanggil akses yang hanya bisa di lakukan admin ebook yai
 <br>
 2. Jika memilih diluar pilihan<br>
 <img width="277" height="225" alt="image" src="https://github.com/user-attachments/assets/aaa8a506-2e19-494c-bff4-8eb7c64ed0f9" /><br>
-3. Jika tidak memilih kategori menu pilihan<br>
-
+3. Jika tidak memilih kategori menu pilihan (kosong) <br>
+<img width="265" height="247" alt="image" src="https://github.com/user-attachments/assets/19a93153-51f2-446a-8d62-661de4aaffb8" /><br>
 <br>
 9. Input<br>
 <img width="607" height="296" alt="image" src="https://github.com/user-attachments/assets/66b2f30a-12fa-4caf-8d1b-8895861c1623" /><br>
 Untuk menampilkan dan memanggil akses yang hanya bisa di lakukan user ebook yaitu hanya dapat melihat ebook atau kembali memilih kategori jika memasukkan angka diluar pilihan maka akan kembali memilih kategori.<br>
 1. Jika memilih pilihan 2<br>
 <img width="299" height="299" alt="image" src="https://github.com/user-attachments/assets/69c07f96-dc59-412b-a76f-c72a159a2163" /><br>
-<br>
 2. Jika memilih diluar pilihan<br>
 <img width="229" height="89" alt="image" src="https://github.com/user-attachments/assets/dc26394c-c429-4268-a489-d179da0314e5" />
 3. Jika tidak memilih kategori menu pilihan (kosong) <br>
-<img width="353" height="89" alt="image" src="https://github.com/user-attachments/assets/d9a3aa40-b331-4d24-8c43-db4a42f03958" />
+<img width="353" height="89" alt="image" src="https://github.com/user-attachments/assets/d9a3aa40-b331-4d24-8c43-db4a42f03958" /><br>
 
 
 
