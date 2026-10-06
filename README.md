@@ -83,16 +83,19 @@ Ouput:<br>
 4. Jika Username & Password salah<br>
 <img width="349" height="142" alt="image" src="https://github.com/user-attachments/assets/896a47f3-1380-4c7c-b62b-44cf8c742ef8" /><br>
 <br>
-<br>
 3. Input<br>
 <img width="592" height="71" alt="image" src="https://github.com/user-attachments/assets/c5b53d07-f164-4e6c-b601-120a031e04db" /><br>
-Pada pilihan 1 akan bisa di akses sama admin & user dengan mendefinisikan lihat_ebook dan dengan menampilkan daftar ebook awal dengan menggunakan indeks 0 dan 1 untuk menampilkan ebook dan penulis.<br>
-Output::<br>
+Pada pilihan 1 bisa di akses admin & user dengan mendefinisikan lihat_ebook dan dengan menampilkan daftar ebook awal dengan menggunakan indeks 0 dan 1 untuk menampilkan ebook dan penulis dan setelahnya akan mengulang kembali memilih kategori kembali.<br>
 <br>
-4. <img width="625" height="327" alt="image" src="https://github.com/user-attachments/assets/0e93a58e-4a41-4c66-9729-d28557510d08" /><br>
+Output::<br>
+<img width="221" height="335" alt="image" src="https://github.com/user-attachments/assets/201fa124-15c5-4017-bc58-913075f2ac14" />
+<br>
+4. Input<br>
+<img width="625" height="327" alt="image" src="https://github.com/user-attachments/assets/0e93a58e-4a41-4c66-9729-d28557510d08" /><br>
 Pada pilihan 2 akan bisa di akses oleh admin saja dengan mendefinsikan tambah_ebook dengan menggunakan while true untuk mengisi data pengguna mulai dari judul dan penulis jika kosong maka akan menampilkan "Judul/Penulis tidak boleh kosong" dan akan mengulang untuk mengisi inputan judul/penulis. Dan setelah menginput judul dan penulis yang ingin ditambahkan dengan menggunakan `append` maka akan otomatis masuk kedalam list ebooks lalu menampilkan "Ebook ditambahkan" dan akan menampilkan daftar ebook terbaru.<br>
 <br>
 Output:<br>
+
 <br>
 5. Input<br>
 <img width="645" height="625" alt="image" src="https://github.com/user-attachments/assets/0c477e90-8ccf-485c-ac49-8d3d6571e095" /><br>
