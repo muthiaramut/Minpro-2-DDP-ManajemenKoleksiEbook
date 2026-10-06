@@ -88,40 +88,66 @@ Ouput:<br>
 Pada pilihan 1 bisa di akses admin & user dengan mendefinisikan lihat_ebook dan dengan menampilkan daftar ebook awal dengan menggunakan indeks 0 dan 1 untuk menampilkan ebook dan penulis dan setelahnya akan mengulang kembali memilih kategori kembali.<br>
 <br>
 Output::<br>
-<img width="221" height="335" alt="image" src="https://github.com/user-attachments/assets/201fa124-15c5-4017-bc58-913075f2ac14" />
+<img width="221" height="335" alt="image" src="https://github.com/user-attachments/assets/201fa124-15c5-4017-bc58-913075f2ac14" /><br>
 <br>
 4. Input<br>
 <img width="625" height="327" alt="image" src="https://github.com/user-attachments/assets/0e93a58e-4a41-4c66-9729-d28557510d08" /><br>
 Pada pilihan 2 akan bisa di akses oleh admin saja dengan mendefinsikan tambah_ebook dengan menggunakan while true untuk mengisi data pengguna mulai dari judul dan penulis jika kosong maka akan menampilkan "Judul/Penulis tidak boleh kosong" dan akan mengulang untuk mengisi inputan judul/penulis. Dan setelah menginput judul dan penulis yang ingin ditambahkan dengan menggunakan `append` maka akan otomatis masuk kedalam list ebooks lalu menampilkan "Ebook ditambahkan" dan akan menampilkan daftar ebook terbaru.<br>
 <br>
 Output:<br>
-
+<img width="289" height="355" alt="image" src="https://github.com/user-attachments/assets/8afb9538-58ed-4a05-b4ae-d6930df96598" /><br>
 <br>
 5. Input<br>
 <img width="645" height="625" alt="image" src="https://github.com/user-attachments/assets/0c477e90-8ccf-485c-ac49-8d3d6571e095" /><br>
-Pada pilihan 3 akan bisa di akses oleh admin saja dimulai dengan ditampilkan daftar ebook terbaru untuk melihat data ebook yang ingin di ubah , lalu dengan mendefinisikan ubah_ebook dengan menggunakan while true untuk mengsi data pengguna dengan memasukkan judul/penulis yang lama, jika judul dan penulis jika kosong maka akan menampilkan "Judul/Penulis tidak boleh kosong" dan akan mengulang untuk mengisi inputan judul/penulis yang ingin di ubah. Dengan `remove` maka data yang di input akan otomatis terhapus dari list data ebooks.<br>
+Pada pilihan 3 akan bisa di akses oleh admin saja dimulai dengan ditampilkan daftar ebook terbaru untuk melihat data ebook yang ingin di ubah , lalu dengan mendefinisikan ubah_ebook dengan menggunakan while true untuk mengsi data pengguna dengan memasukkan judul/penulis yang lama, jika judul dan penulis jika kosong maka akan menampilkan "Judul/Penulis tidak boleh kosong" dan akan mengulang untuk mengisi inputan judul/penulis yang ingin di ubah. Dengan `remove` maka data yang di input akan otomatis terhapus dari list data ebooks.
 <dr>
 Dilanjutkan dengan mengisi juduk dan penulis baru yang ingin di masukkan ke dalam data untuk mengubah data yang lama, lalu jika judul dan penulis jika kosong maka akan menampilkan "Judul/Penulis tidak boleh kosong" dan akan mengulang untuk mengisi inputan judul/penulis yang ingin di tambah. Digunakan peran `append` untuk menambahkan data di list ebooks sesuai data yang baru. Setelah berhasil maka akan menampilkan kalimat "Ebook berhasil diubah" dan menampilkan kembali daftar ebook terbaru.<br>
+<br>
 Output:<br>
+<img width="354" height="527" alt="image" src="https://github.com/user-attachments/assets/fac09c7f-d388-41eb-8c52-688bf5236715" /><br>
 <br>
 6. Input<br>
 <img width="637" height="525" alt="image" src="https://github.com/user-attachments/assets/f4f69da9-8007-450f-adff-5c01aab7ad29" /><br>
 Pada pilihan ke 4 yang hanya bisa di akses oleh admin dengan menggunakan while true untuk mengsi data pengguna dimulai dengan di tampilkan daftar ebook terbaru lalu menginput judul/penulis yang ingin di hapus, jika judul dan penulis jika kosong maka akan menampilkan "Judul/Penulis tidak boleh kosong" dan akan mengulang untuk mengisi inputan judul/penulis yang ingin di dihapus. Lalu kembali menggunakan peran `remove` untuk menghapus data yang diinput untuk di hapus dari data list ebooks. Lalu setelahnya akan menampilkan ebook terbaru dan menampilkan kalimat "Ebook berhasil dihapus"<br>
+<br>
 Output:<br>
+<img width="437" height="489" alt="image" src="https://github.com/user-attachments/assets/c0666e48-4d92-4e63-b00c-6cf3d3060939" /><br>
 <br>
 7. Input<br>
 <img width="643" height="504" alt="image" src="https://github.com/user-attachments/assets/805d55f9-1123-4b84-98d3-fff81a24daaa" /><br>
 Ini adalah perulangan untuk menampilkan Pilihan Kategori dengan menggunakan indeks jika memilih 1,2,3 maka indeks data `0,1,2` yang akan ditampilkan, jika memilih kategori 4 maka akan keluar dari program dan menampilkan "Program Selesai" dan jika pengguna memasukkan kategori yang lain maka akan menampilkan ouput "Pilihan Kategori tidak ada" dan kembali untuk memilih kategori lagi.
 <br>
 Output:<br>
+1. Jika memilih pilihan 4<br>
+<img width="255" height="143" alt="image" src="https://github.com/user-attachments/assets/80b3b2b4-b253-453f-b42b-acfa0f6ca597" /><br>
+2. Jika memeilih diluar pilihan<br>
+<img width="285" height="228" alt="image" src="https://github.com/user-attachments/assets/ba6fe414-d005-4064-b545-453dfdce7a82" /><br>
 <br>
 8. Input<br>
 <img width="466" height="515" alt="image" src="https://github.com/user-attachments/assets/c4355348-8d64-496f-8d2b-eaff4aab8781" /><br>
 Untuk menampilkan dan memanggil akses yang hanya bisa di lakukan admin ebook yaitu dapat melakukan CRUD, jika memasukkan angka diluar pilihan maka akan kembali memilih kategori.<br>
+1. Jika memilih pilihan 5<br>
+<img width="331" height="228" alt="image" src="https://github.com/user-attachments/assets/7da2ab47-c365-4cd9-8a5a-8c15aebcc427" /><br>
+<br>
+2. Jika memilih diluar pilihan<br>
+<img width="277" height="225" alt="image" src="https://github.com/user-attachments/assets/aaa8a506-2e19-494c-bff4-8eb7c64ed0f9" /><br>
+3. Jika tidak memilih kategori menu pilihan<br>
+
 <br>
 9. Input<br>
 <img width="607" height="296" alt="image" src="https://github.com/user-attachments/assets/66b2f30a-12fa-4caf-8d1b-8895861c1623" /><br>
 Untuk menampilkan dan memanggil akses yang hanya bisa di lakukan user ebook yaitu hanya dapat melihat ebook atau kembali memilih kategori jika memasukkan angka diluar pilihan maka akan kembali memilih kategori.<br>
+1. Jika memilih pilihan 2<br>
+<img width="299" height="299" alt="image" src="https://github.com/user-attachments/assets/69c07f96-dc59-412b-a76f-c72a159a2163" /><br>
+<br>
+2. Jika memilih diluar pilihan<br>
+<img width="229" height="89" alt="image" src="https://github.com/user-attachments/assets/dc26394c-c429-4268-a489-d179da0314e5" />
+3. Jika tidak memilih kategori menu pilihan (kosong) <br>
+<img width="353" height="89" alt="image" src="https://github.com/user-attachments/assets/d9a3aa40-b331-4d24-8c43-db4a42f03958" />
+
+
+
+
 
 
 
