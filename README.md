@@ -24,6 +24,7 @@ Pada admin harus menginput pilihan diantara CRUD tersebut, masuk pada bagian dei
 <br>
 #User<br>
 Pada user harus menginput pilihan diantar 2 pilihan yaitu lihat ebook atau kembali ke kategori, dan jika memasukkan angka yang tidak ada dipilihan maka akan menampilkan "Pilihan menu tidak ada" dan akan kembali ke daftar kategori.<br>
+<br>
 3. Page (3)<br>
 <img width="570" height="692" alt="Page(3) drawio" src="https://github.com/user-attachments/assets/e34461e6-f588-4a24-bd29-c98b8bcef713" /><br>
 Penejelasan:<br>
