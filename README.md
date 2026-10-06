@@ -53,7 +53,9 @@ Dengan import pwinput untuk mengimpor library pwinput untuk password, def kosong
 <br>
 <img width="509" height="284" alt="image" src="https://github.com/user-attachments/assets/46737a84-7f9e-4332-a453-04b578e32133" /><br>
 Terdapat ebooks seabagai list yang berisikan tuple dalamnya untuk menyimpan data kategori ebook, dan pada masing masing kategori berisikan data 3 judul & penulis ebook yang sesuai tentang kategori.<br>
+<br>
 Ouput:<br>
+
 <br>
 2. Input<br>
 <img width="320" height="194" alt="image" src="https://github.com/user-attachments/assets/c645267c-6e85-4c53-b7b8-959cfcd08474" /><br>
@@ -64,6 +66,16 @@ Dengan while true untuk melakukan perulangahn untuk mengsi username & password l
 <br>
 Dan jika username/password salah maka akan ditampilkan "Username/password salah" dan dengan fungsi continue untuk mengulang perulangan. Dan dengan `akses = login()` untuk memanggil fungsi login () dn menyiman nilai hasil pengembaliannya dalam variabel akses<br>
 Output:<br>
+Ouput:<br>
+1. Username benar sebagai admin<br>
+<img width="258" height="185" alt="image" src="https://github.com/user-attachments/assets/81ebd286-c7c4-4403-8dcc-70f89886028b" /><br>
+2. Password benar sebagai user<br>
+<img width="306" height="181" alt="image" src="https://github.com/user-attachments/assets/7fbded93-8ba4-454e-9f02-820982142981" /><br>
+3. Jika Username & password kosong<br>
+<img width="417" height="143" alt="image" src="https://github.com/user-attachments/assets/987a5c53-db2c-4c2b-959c-f183a2095793" /><br>
+4. Jika Username & Password salah<br>
+<img width="349" height="142" alt="image" src="https://github.com/user-attachments/assets/896a47f3-1380-4c7c-b62b-44cf8c742ef8" /><br>
+<br>
 <br>
 3. Input<br>
 <img width="592" height="71" alt="image" src="https://github.com/user-attachments/assets/c5b53d07-f164-4e6c-b601-120a031e04db" /><br>
