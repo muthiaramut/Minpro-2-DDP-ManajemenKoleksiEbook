@@ -61,10 +61,17 @@ Pada pilihan 1 akan bisa di akses sama admin & user dengan mendefinisikan lihat_
 Output::<br>
 4. <img width="625" height="327" alt="image" src="https://github.com/user-attachments/assets/0e93a58e-4a41-4c66-9729-d28557510d08" /><br>
 Pada pilihan 2 akan bisa di akses oleh admin saja dengan mendefinsikan tambah_ebook dengan menggunakan while true untuk mengisi data pengguna mulai dari judul dan penulis jika kosong maka akan menampilkan "Judul/Penulis tidak boleh kosong" dan akan mengulang untuk mengisi inputan judul/penulis. Dan setelah menginput judul dan penulis yang ingin ditambahkan dengan menggunakan `append` maka akan otomatis masuk kedalam list ebooks lalu menampilkan "Ebook ditambahkan" dan akan menampilkan daftar ebook terbaru.<br>
+<br>
 Output:<br>
+<br>
 5. Input<br>
 <img width="645" height="625" alt="image" src="https://github.com/user-attachments/assets/0c477e90-8ccf-485c-ac49-8d3d6571e095" /><br>
-Pada pilihan 3 akan bisa di akses oleh admin saja dengan mendefinisikan ubah_ebook dengan menggunakan while true untuk mengsi data pengguna dengan memasukkan judul/penulis yang lama, jika judul dan penulis jika kosong maka akan menampilkan "Judul/Penulis tidak boleh kosong" dan akan mengulang untuk mengisi inputan judul/penulis.
+Pada pilihan 3 akan bisa di akses oleh admin saja dimulai dengan ditampilkan daftar ebook terbaru untuk melihat data ebook yang ingin di ubah , lalu dengan mendefinisikan ubah_ebook dengan menggunakan while true untuk mengsi data pengguna dengan memasukkan judul/penulis yang lama, jika judul dan penulis jika kosong maka akan menampilkan "Judul/Penulis tidak boleh kosong" dan akan mengulang untuk mengisi inputan judul/penulis yang ingin di ubah. Dengan `remove` maka data yang di input akan otomatis terhapus dari list data ebooks.<br>
+<dr>
+Dilanjutkan dengan mengisi juduk dan penulis baru yang ingin di masukkan ke dalam data untuk mengubah data yang lama, lalu jika judul dan penulis jika kosong maka akan menampilkan "Judul/Penulis tidak boleh kosong" dan akan mengulang untuk mengisi inputan judul/penulis yang ingin di tambah. Digunakan peran `append` untuk menambahkan data di list ebooks sesuai data yang baru. Setelah berhasil maka akan menampilkan kalimat "Ebook berhasil diubah" dan menampilkan kembali daftar ebook terbaru.<br>
+Output:<br>
+<br>
+6. 
 
 
 
