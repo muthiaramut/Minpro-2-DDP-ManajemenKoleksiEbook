@@ -7,7 +7,7 @@ Judul: Manajemen Koleksi Ebook<br>
 Flowchart:<br>
 <br>
 1. Page (1)<br>
-<img width="746" height="1058" alt="Page(1) drawio" src="https://github.com/user-attachments/assets/8a901004-b8b3-48c8-a061-f2c48c4b7eb7" /><br>
+<img width="736" height="1058" alt="Page(1) drawio" src="https://github.com/user-attachments/assets/dc229eee-2ea9-4bbb-bb5b-f8e513a14687" />
 <br>
 Penejelasan:<br>
 Pada page pertama akan dimulai, dilanjutkan dengan Inisialisasi seluruh Data, dilanjutkan dengan diminta untuk menginput Username & Pasword setelahnya akan di proses ke bagian admin/user. Dilanjutkan decision apakah username sesuai dengan data jika `tidak`/`kososng` maka akan di tampilkan username kosong/salah dan akan kembali untuk menginput username lagi, jika `benar` maka dilanjutkan dengan decision apakah password sesuai dengan data jika `tidak`/`kosong` maka akan di tampilkan username kosong/salah dan akan kembali untuk menginput password lagi, `benar` maka akan di tampilkan output login sukses.<br>
