@@ -73,7 +73,14 @@ Output:<br>
 <br>
 6. Input<br>
 <img width="637" height="525" alt="image" src="https://github.com/user-attachments/assets/f4f69da9-8007-450f-adff-5c01aab7ad29" /><br>
-Pada pilihan ke 4 yang hanya bisa di akses oleh admin dengan menggunakan while true untuk mengsi data pengguna dimulai dengan di tampilkan daftar ebook terbaru lalu menginput judul/penulis yang ingin di hapus, jika judul dan penulis jika kosong maka akan menampilkan "Judul/Penulis tidak boleh kosong" dan akan mengulang untuk mengisi inputan judul/penulis yang ingin di dihapus. Lalu kembali menggunakan peran `remove` untuk menghapus data yang diinput untuk di hapus dari data list ebooks. Lalu setelahnya akan menampilkan ebook terbaru dan menampilkan kalimat "Ebook berhasil dihapus"
+Pada pilihan ke 4 yang hanya bisa di akses oleh admin dengan menggunakan while true untuk mengsi data pengguna dimulai dengan di tampilkan daftar ebook terbaru lalu menginput judul/penulis yang ingin di hapus, jika judul dan penulis jika kosong maka akan menampilkan "Judul/Penulis tidak boleh kosong" dan akan mengulang untuk mengisi inputan judul/penulis yang ingin di dihapus. Lalu kembali menggunakan peran `remove` untuk menghapus data yang diinput untuk di hapus dari data list ebooks. Lalu setelahnya akan menampilkan ebook terbaru dan menampilkan kalimat "Ebook berhasil dihapus"<br>
+Output:<br>
+<br>
+7. Input<br>
+<img width="643" height="519" alt="image" src="https://github.com/user-attachments/assets/74911103-f7b4-47bd-98ae-44276df2011f" /><br>
+Ini adalah perulangan untuk menampilkan Pilihan Kategori dengan menggunakan indeks jika memilih 1,2,3 maka indeks data `0,1,2` yang akan ditampilkan, jika memilih kategori 4 maka akan keluar dari program dan menampilkan "Program Selesai"
+
+
 
 
 
