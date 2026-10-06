@@ -124,6 +124,8 @@ Output:<br>
 <img width="255" height="143" alt="image" src="https://github.com/user-attachments/assets/80b3b2b4-b253-453f-b42b-acfa0f6ca597" /><br>
 2. Jika memeilih diluar pilihan<br>
 <img width="285" height="228" alt="image" src="https://github.com/user-attachments/assets/ba6fe414-d005-4064-b545-453dfdce7a82" /><br>
+3. Jika tidak memilih kategori ebook (ksosong)<br>
+<img width="237" height="234" alt="image" src="https://github.com/user-attachments/assets/05dea9fe-2f1c-46aa-9535-7efbab54347e" /><br>
 <br>
 8. Input<br>
 <img width="466" height="515" alt="image" src="https://github.com/user-attachments/assets/c4355348-8d64-496f-8d2b-eaff4aab8781" /><br>
@@ -145,7 +147,7 @@ Output:
 1. Jika memilih pilihan 2<br>
 <img width="299" height="299" alt="image" src="https://github.com/user-attachments/assets/69c07f96-dc59-412b-a76f-c72a159a2163" /><br>
 2. Jika memilih diluar pilihan<br>
-<img width="229" height="89" alt="image" src="https://github.com/user-attachments/assets/dc26394c-c429-4268-a489-d179da0314e5" />
+<img width="229" height="89" alt="image" src="https://github.com/user-attachments/assets/dc26394c-c429-4268-a489-d179da0314e5" /><br>
 3. Jika tidak memilih kategori menu pilihan (kosong) <br>
 <img width="353" height="89" alt="image" src="https://github.com/user-attachments/assets/d9a3aa40-b331-4d24-8c43-db4a42f03958" /><br>
 
